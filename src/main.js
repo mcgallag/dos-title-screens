@@ -13,7 +13,6 @@ const TWITTER_AUTH = {
 };
 
 function main() {
-  console.dir(process.env);
   new TwitterBot(TWITTER_AUTH);
 }
 
