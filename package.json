@@ -1,0 +1,11 @@
+{
+  "name": "dos-title-screens",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Michael Gallagher <mcgallag@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "twitter": "^1.7.1"
+  }
+}

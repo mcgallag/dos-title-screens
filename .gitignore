@@ -1,0 +1,6 @@
+.env
+node_modules
+assets/*
+.vscode
+images.json
+yarn.lock
